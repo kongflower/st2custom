@@ -1,8 +1,8 @@
 Ext.define("HomeView", {
 	extend:"Ext.Panel",
 	config: {
-		title: "Home",
+		title: "홈",
 		style: "background-color: red; color:white;",
-		html: "homeView"
+		html: "홈화면"
 	}
 });

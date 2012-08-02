@@ -1,8 +1,8 @@
 Ext.define("ListView", {
 	extend:"Ext.Panel",
 	config: {
-		title: "List",
+		title: "검색",
 		style: "background-color: blue; color:white;",
-		html: "listView"
+		html: "검색된 list"
 	}
 });
